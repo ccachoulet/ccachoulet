@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-I'm Clement, a software development enthusiast, and I'm delighted to have you here.
+I'm Clement, a web development enthusiast, and I'm delighted to have you here.
 
 ## About Me
 
