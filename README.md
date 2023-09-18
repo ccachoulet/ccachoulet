@@ -18,8 +18,7 @@ I'm Clement, a software development enthusiast, and I'm delighted to have you he
 - [![Symfony](https://img.shields.io/badge/Symfony-5.x-000000?style=flat-square&logo=symfony&color=000000&logoColor=white)](https://symfony.com/)
 - [![Docker](https://img.shields.io/badge/Docker-latest-2496ED?style=flat-square&logo=docker&color=2496ED&logoColor=white)](https://www.docker.com/)
 - [![MySQL](https://img.shields.io/badge/MySQL-latest-4479A1?style=flat-square&logo=mysql&color=4479A1&logoColor=white)](https://www.mysql.com/)
-- [![Linux](https://img.shields.io/badge/Linux-latest-FCC624?style=flat-square&logo=linux&color=FCC624&logoColor=white)](https://www.linux.org/)
-- [![JWT](https://img.shields.io/badge/JWT-latest-000000?style=flat-square&logo=json-web-tokens&color=000000&logoColor=white)](https://jwt.io/)
+- [![Ubuntu](https://img.shields.io/badge/Ubuntu-latest-E95420?style=flat-square&logo=ubuntu&color=E95420&logoColor=white)](https://ubuntu.com/)
 
 
 
