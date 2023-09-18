@@ -11,9 +11,10 @@ I'm Clement, a software development enthusiast, and I'm delighted to have you he
 
 ## My Favorite Technologies
 
-- ![Node.js](https://img.shields.io/badge/Node.js-14.x-brightgreen)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-4.x-green)
-- ![Next.js](https://img.shields.io/badge/Next.js-12.x-orange)
-- ![React](https://img.shields.io/badge/React-17.x-blue)
-- ![Symfony](https://img.shields.io/badge/Symfony-5.x-purple)
-- ![Docker](https://img.shields.io/badge/Docker-latest-blue)
+- [![Node.js](https://img.shields.io/badge/Node.js-14.x-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
+- [![MongoDB](https://img.shields.io/badge/MongoDB-4.x-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+- [![Next.js](https://img.shields.io/badge/Next.js-12.x-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
+- [![React](https://img.shields.io/badge/React-17.x-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
+- [![Symfony](https://img.shields.io/badge/Symfony-5.x-000000?style=flat-square&logo=symfony&logoColor=white)](https://symfony.com/)
+- [![Docker](https://img.shields.io/badge/Docker-latest-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+
