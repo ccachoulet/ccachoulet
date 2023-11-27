@@ -20,6 +20,7 @@ I'm Clement, a web development enthusiast, and I'm delighted to have you here.
 - [![MySQL](https://img.shields.io/badge/MySQL-latest-4479A1?style=flat-square&logo=mysql&color=4479A1&logoColor=white)](https://www.mysql.com/)
 - [![Ubuntu](https://img.shields.io/badge/Ubuntu-latest-E95420?style=flat-square&logo=ubuntu&color=E95420&logoColor=white)](https://ubuntu.com/)
 - [![AdonisJS](https://img.shields.io/badge/AdonisJS-latest-4E44DB?style=flat-square&logo=adonisjs&color=4E44DB&logoColor=white)](https://adonisjs.com/)
+- [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-latest-336791?style=flat-square&logo=postgresql&color=336791&logoColor=white)](https://www.postgresql.org/)
 
 
 
