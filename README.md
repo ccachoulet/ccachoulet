@@ -24,7 +24,7 @@ I'm Clement, a web development enthusiast, and I'm delighted to have you here.
 
 ## Stats
 
-![Ccachoulet GitHub stats](https://github-readme-stats.vercel.app/api?username=ccachoulet&theme=dark&show_icons=true)
+![Ccachoulet GitHub stats](https://github-readme-stats.vercel.app/api?username=ccachoulet&theme=dracula_icons=true)
 
 
 
