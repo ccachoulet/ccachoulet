@@ -22,6 +22,11 @@ I'm Clement, a web development enthusiast, and I'm delighted to have you here.
 - [![AdonisJS](https://img.shields.io/badge/AdonisJS-latest-4E44DB?style=flat-square&logo=adonisjs&color=4E44DB&logoColor=white)](https://adonisjs.com/)
 - [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-latest-336791?style=flat-square&logo=postgresql&color=336791&logoColor=white)](https://www.postgresql.org/)
 
+## Stats
+
+![Ccachoulet GitHub stats](https://github-readme-stats.vercel.app/api?username=ccachoulet&theme=dark&show_icons=true)
+
+
 
 
 
