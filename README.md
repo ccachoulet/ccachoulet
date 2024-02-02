@@ -32,7 +32,7 @@ I'm Clement, a web development enthusiast, and I'm delighted to have you here.
 ## Stats
 
 ![Ccachoulet GitHub stats](https://github-readme-stats.vercel.app/api?username=ccachoulet&theme=dracula_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccachoulet&hide=html,css)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccachoulet&hide=html,css)
 
 
 
